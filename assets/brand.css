@@ -1,0 +1,15 @@
+/* Плавно — основные роли бренда. */
+@font-face { font-family: 'Golos Text'; src: url('./fonts/golos-400.ttf') format('truetype'); font-weight: 400; font-display: swap; }
+@font-face { font-family: 'Golos Text'; src: url('./fonts/golos-600.ttf') format('truetype'); font-weight: 600; font-display: swap; }
+@font-face { font-family: 'Golos Text'; src: url('./fonts/golos-800.ttf') format('truetype'); font-weight: 800; font-display: swap; }
+@font-face { font-family: 'IBM Plex Mono'; src: url('./fonts/plex-mono-400.ttf') format('truetype'); font-weight: 400; font-display: swap; }
+:root {
+  --brand-primary: #ffffff;
+  --brand-background: #f4f4f4;
+  --brand-text: #181818;
+  --brand-text-secondary: #606060;
+  --brand-context: #397ca7;
+  --brand-context-subtle: #e5f0f7;
+  --brand-font: 'Golos Text', sans-serif;
+  --brand-mono: 'IBM Plex Mono', monospace;
+}

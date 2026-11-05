@@ -1,0 +1,13 @@
+{
+  "name": "Плавно",
+  "primary": "#ffffff",
+  "background": "#f4f4f4",
+  "text": "#181818",
+  "secondaryText": "#606060",
+  "contextAccent": "#397ca7",
+  "contextSubtle": "#e5f0f7",
+  "fonts": [
+    "Golos Text",
+    "IBM Plex Mono"
+  ]
+}

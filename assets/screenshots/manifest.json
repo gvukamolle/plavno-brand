@@ -1,0 +1,136 @@
+{
+  "captured_at": "2026-11-05",
+  "source_base_sha": "3e5fd44b42af7e48b4401dd7e698de6f1ac759fa",
+  "runtime": "SvelteKit + FastAPI + isolated PostgreSQL",
+  "data": "synthetic; corporate sources replaced locally",
+  "dev_comparison": "read-only visual references; no Dev media published",
+  "excluded": [
+    "greeting dashboard"
+  ],
+  "limits": [
+    "No live LLM inference",
+    "No audio processing or mail sending",
+    "Catalogue capability metadata synthetic; no live prices"
+  ],
+  "screens": [
+    {
+      "file": "toolkit.jpg",
+      "route": "/special/ai-toolkit",
+      "width": 1456,
+      "height": 846,
+      "sha256": "9de15a6a0073766998ed8b0512f907dc60221b2c2ab6934a26e7057ec7d3e4a2"
+    },
+    {
+      "file": "team.jpg",
+      "route": "/special/my-team/teams/demo-product/dashboard",
+      "width": 1456,
+      "height": 846,
+      "sha256": "0a4552d16d961e12ad4fd30c3e4b3f36e658fd7d2f33fe877386becc93cd1092"
+    },
+    {
+      "file": "org.jpg",
+      "route": "/special/org-structure",
+      "width": 1456,
+      "height": 846,
+      "sha256": "2894e407febd6723d0aec5fdc8f3ffe106c1c0547e9b3d2612f1bf67a61372ae"
+    },
+    {
+      "file": "callcenter.jpg",
+      "route": "/special/call-center/dashboard",
+      "width": 1456,
+      "height": 846,
+      "sha256": "19b9175ea89e9376b0ce9d5af592ade90384c78adcb15b3d3b70400db8636b5e"
+    },
+    {
+      "file": "applications.jpg",
+      "route": "/special/b2pos?id=90000001",
+      "width": 1456,
+      "height": 846,
+      "sha256": "035b73bcb41a28bc09f1b7e167683c17894e64ea7eb71141941efc8d27bb0f77"
+    },
+    {
+      "file": "projects.jpg",
+      "route": "/my-projects/DEMO-100",
+      "width": 1456,
+      "height": 846,
+      "sha256": "3dc3fdd8382b5c3c1c3a8dc69a90d1f6e37c423523955b59e28b982b67945a02"
+    },
+    {
+      "file": "mail.jpg",
+      "route": "/mail",
+      "width": 1456,
+      "height": 846,
+      "sha256": "8a6765d7de4b3fec0046a56bd620f60a2ca60efa7ad9ac94a2004f627b1cf0a1"
+    },
+    {
+      "file": "calendar.jpg",
+      "route": "/calendar",
+      "width": 1456,
+      "height": 846,
+      "sha256": "623ce841c09433efa78f2ee87f3fc7f9afe0de1b338d2609561f8795c5e178cb"
+    },
+    {
+      "file": "studio.jpg",
+      "route": "/notes/company-doc-0",
+      "width": 1456,
+      "height": 846,
+      "sha256": "c969217211fd8f7ea17c086e364576be6041d04342dd53545db4281ae23ca207"
+    },
+    {
+      "file": "studio-table.jpg",
+      "route": "/notes/company-table-launch",
+      "width": 1456,
+      "height": 846,
+      "sha256": "73a3ea98d477834b433341ff85571afc268981f205eb847bc5550b76fd6fcc86"
+    },
+    {
+      "file": "studio-board.jpg",
+      "route": "/notes/company-board-launch",
+      "width": 1456,
+      "height": 846,
+      "sha256": "32b600d3b461d840567effcc12febf226ad69b1e95c22bab1b41db40326fc655"
+    },
+    {
+      "file": "studio-space.jpg",
+      "route": "/notes",
+      "width": 1456,
+      "height": 846,
+      "sha256": "c8bffa6e53ae494acf7e9887dad2065d5e6d788296ddd8ceb977c612686caa72"
+    },
+    {
+      "file": "sol.jpg",
+      "route": "/c/company-chat-launch",
+      "width": 1456,
+      "height": 846,
+      "sha256": "b161240ff7fe4646bf7dff0e62f4374567b887ad49fb41cbe83f599fd2b8dbbf"
+    },
+    {
+      "file": "speech-library.jpg",
+      "route": "/recordings",
+      "width": 1456,
+      "height": 846,
+      "sha256": "91082f960789aaa2160751c99959b45b0068e6f0ebbadc2c77386ef4fd02389f"
+    },
+    {
+      "file": "speech.jpg",
+      "route": "/recordings/company-recording-0",
+      "width": 1456,
+      "height": 846,
+      "sha256": "8dc27d68aeeb647a7b4517963d4e192ea3ad4f0affc9249304dfd31db258771d"
+    },
+    {
+      "file": "speech-transcript.jpg",
+      "route": "/recordings/company-recording-0",
+      "width": 1456,
+      "height": 846,
+      "sha256": "2661e90a6b5c911772ac81048869b2ef49623bd2e0f7db32348017eb1f786290"
+    },
+    {
+      "file": "speech-partials.jpg",
+      "route": "/recordings/company-recording-0",
+      "width": 1456,
+      "height": 846,
+      "sha256": "4105fb21232ea822fb7290a0f46bdeb29c572a7c01812e09f4d5c52842a04741"
+    }
+  ]
+}

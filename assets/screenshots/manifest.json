@@ -131,6 +131,160 @@
       "width": 1456,
       "height": 846,
       "sha256": "4105fb21232ea822fb7290a0f46bdeb29c572a7c01812e09f4d5c52842a04741"
+    },
+    {
+      "file": "calendar-month.jpg",
+      "title": "Календарь — обзор месяца",
+      "route": "/calendar",
+      "width": 1456,
+      "height": 846,
+      "sha256": "8e976ed8bb186bb5553a8efa082eae043359611fb0a2bccd96720dd633f2ca61",
+      "captured_at": "2026-11-06",
+      "data": "synthetic; UI not retouched",
+      "source_sha": "1938329944137c358b8624cce7c1cef37bdc4235"
+    },
+    {
+      "file": "calendar-event.jpg",
+      "title": "Календарь — участники и параметры встречи",
+      "route": "/calendar",
+      "width": 1456,
+      "height": 846,
+      "sha256": "bdc6245023bfea757ff3fab0cd6de9062fb981dd8908178d98341ef767ce2048",
+      "captured_at": "2026-11-06",
+      "data": "synthetic; UI not retouched",
+      "source_sha": "1938329944137c358b8624cce7c1cef37bdc4235"
+    },
+    {
+      "file": "projects-meetings.jpg",
+      "title": "Проекты — встречи и связанные записи",
+      "route": "/my-projects/DEMO-100?view=meetings",
+      "width": 1456,
+      "height": 846,
+      "sha256": "f967b65884055feab5c8b352996c6a0b3c03ed148965a984688521ffce9f0347",
+      "captured_at": "2026-11-06",
+      "data": "synthetic; UI not retouched",
+      "source_sha": "1938329944137c358b8624cce7c1cef37bdc4235"
+    },
+    {
+      "file": "projects-wishes.jpg",
+      "title": "Проекты — пожелания и статусы обратной связи",
+      "route": "/my-projects/DEMO-100?view=meetings",
+      "width": 1456,
+      "height": 846,
+      "sha256": "d6952d9bb2a903d117edef5a2487125dcd22645e2ddd3685946d1bbaa4e13dfc",
+      "captured_at": "2026-11-06",
+      "data": "synthetic; UI not retouched",
+      "source_sha": "1938329944137c358b8624cce7c1cef37bdc4235"
+    },
+    {
+      "file": "projects-profile.jpg",
+      "title": "Проекты — профиль и параметры проекта",
+      "route": "/my-projects/DEMO-100?view=meetings",
+      "width": 1456,
+      "height": 846,
+      "sha256": "7cfcc063366c1199d0f412032701f1677b55a4ce0c7c4e570485469a484ef734",
+      "captured_at": "2026-11-06",
+      "data": "synthetic; UI not retouched",
+      "source_sha": "1938329944137c358b8624cce7c1cef37bdc4235"
+    },
+    {
+      "file": "team-profile.jpg",
+      "title": "Моя команда — профиль и компетенции участника",
+      "route": "/special/my-team/teams/demo-product/members/team-person-1",
+      "width": 1456,
+      "height": 846,
+      "sha256": "36a8a9d9afa85d1bf0c9d244d72901a59712e5e3a850b994562a0a963800b10d",
+      "captured_at": "2026-11-06",
+      "data": "synthetic; UI not retouched",
+      "source_sha": "1938329944137c358b8624cce7c1cef37bdc4235"
+    },
+    {
+      "file": "team-skills.jpg",
+      "title": "Моя команда — каталог компетенций",
+      "route": "/special/my-team/skills",
+      "width": 1456,
+      "height": 846,
+      "sha256": "959c60f6c659513839825d81a67c25a6be33337b56923dcdb46e1e736e979470",
+      "captured_at": "2026-11-06",
+      "data": "synthetic; UI not retouched",
+      "source_sha": "1938329944137c358b8624cce7c1cef37bdc4235"
+    },
+    {
+      "file": "org-profile.jpg",
+      "title": "Оргструктура — контакты и подразделение коллеги",
+      "route": "/special/org-structure",
+      "width": 1456,
+      "height": 846,
+      "sha256": "34533a9c11c481d9813285c84dcaadccb03acc1214b99912eb06e7be8d8e35ca",
+      "captured_at": "2026-11-06",
+      "data": "synthetic; UI not retouched",
+      "source_sha": "1938329944137c358b8624cce7c1cef37bdc4235"
+    },
+    {
+      "file": "mail-compose.jpg",
+      "title": "Почта — редактор рабочего письма без отправки",
+      "route": "/mail",
+      "width": 1456,
+      "height": 846,
+      "sha256": "725553efbf466ed8da1ce99696dcbfbd57c46b84568b74e192bd021e73eb7fae",
+      "captured_at": "2026-11-06",
+      "data": "synthetic; UI not retouched",
+      "source_sha": "1938329944137c358b8624cce7c1cef37bdc4235"
+    },
+    {
+      "file": "callcenter-list.jpg",
+      "title": "Колл-центр — рабочий список обращений",
+      "route": "/special/call-center/all-applications",
+      "width": 1456,
+      "height": 846,
+      "sha256": "555933c54406f596632aab080b9b60d98cd3cab80a604d71cbac52b3674bdc75",
+      "captured_at": "2026-11-06",
+      "data": "synthetic; UI not retouched",
+      "source_sha": "1938329944137c358b8624cce7c1cef37bdc4235"
+    },
+    {
+      "file": "applications-chat.jpg",
+      "title": "Анализ заявок — вопрос в контексте заявки; заранее подготовленный демоответ",
+      "route": "/special/b2pos?id=90000001",
+      "width": 1456,
+      "height": 846,
+      "sha256": "41a488b3854921e068ea57a32b658882eb13a237507a5752e16fdc69c5a40174",
+      "captured_at": "2026-11-06",
+      "data": "synthetic; UI not retouched",
+      "source_sha": "1938329944137c358b8624cce7c1cef37bdc4235"
+    },
+    {
+      "file": "toolkit-agents.jpg",
+      "title": "AI Тулкит — библиотека корпоративных агентов",
+      "route": "/special/ai-toolkit/agents",
+      "width": 1456,
+      "height": 846,
+      "sha256": "c8495e17a4164e60880546b58f30949123b24d820ab958d21c703cb63cd9629d",
+      "captured_at": "2026-11-06",
+      "data": "synthetic; UI not retouched",
+      "source_sha": "1938329944137c358b8624cce7c1cef37bdc4235"
+    },
+    {
+      "file": "toolkit-builder.jpg",
+      "title": "AI Тулкит — конструктор и предпросмотр каталога моделей",
+      "route": "/special/ai-toolkit/builder",
+      "width": 1456,
+      "height": 846,
+      "sha256": "e19aecbb0ad86c55568fa57161165cac4134f4847f22b6d61ef131fb8440488a",
+      "captured_at": "2026-11-06",
+      "data": "synthetic; UI not retouched",
+      "source_sha": "1938329944137c358b8624cce7c1cef37bdc4235"
+    },
+    {
+      "file": "sol-document.jpg",
+      "title": "Сол — документ Студии в контексте черновика вопроса; без отправки",
+      "route": "/c/company-chat-launch",
+      "width": 1456,
+      "height": 846,
+      "sha256": "09f61fa76c90367c4123c0c178542c07d47a6b9b85b32f523e0b55f793e6ec01",
+      "captured_at": "2026-11-06",
+      "data": "synthetic; UI not retouched",
+      "source_sha": "1938329944137c358b8624cce7c1cef37bdc4235"
     }
   ]
 }
